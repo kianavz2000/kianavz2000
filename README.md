@@ -167,8 +167,6 @@ I write clean code, enjoy solving problems, and love turning ideas into real pro
   
   <br>
   
-  <!-- زبان‌های پراستفاده -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=kianavz2000&layout=donut&langs_count=8&title_color=7B2FBE&icon_color=00E5FF&text_color=B5C9A8" alt="top languages" />
   
 </div>
 
