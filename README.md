@@ -1,16 +1,181 @@
-## Hi there 👋
+## Hi There
 
-<!--
-**kianavz2000/kianavz2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="C:\Users\dell\Pictures\banner.png" alt="banner" width="100%">
 
-Here are some ideas to get you started:
+<div align="center"> 
+  <img src="https://profile-counter.glitch.me/kianavz2000/count.svg" alt="visitor count" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=80&color=7B2FBE&duration=4000&lines=Hi+there+🌱;+I'm+Kiana!;+Front-End+Developer+⭐" />
+</h1>
+
+<div align="center">
+  <p>
+    I'm a front-end developer passionate about creating user-friendly interfaces 
+    and writing clean. I love turning ideas into engaging 
+    visual experiences and solving problems through design.
+  </p>
+</div>
+<br>
+
+
+- 💬 **Ask me about:** React, TypeScript, Tailwind CSS, UI/UX Design
+- 🎓 **Education:** B.Sc. in Aerospace Engineering, Sharif University of Technology
+- ⚡ **Fun fact:** I transitioned from aerospace engineering to front-end development!
+- 📫 **Reach me:** [Email](mailto:avzkiana@gmail.com)
+<br>
+<div align="center">
+  <a href="mailto:avzkiana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+    <a href="https://github.com/kianavz2000" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<hr>
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,sass,bootstrap" />
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite,git,github,docker,figma,regex" />
+</p>
+
+### Familiar With
+<p align="center">
+  <span style="font-size: 16px; color: #666;">
+    WordPress · Vue.js · React Hook Form · REST APIs · Wireframing & Prototyping
+  </span>
+</p>
+
+<hr>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📝 Todo App</h3>
+        <p align="center">
+          <sub>React · TypeScript · Vite · Tailwind CSS</sub>
+        </p>
+        <p align="center">
+          A clean todo app with state management, dark/light mode, 
+          form validation, and remaining task counter.
+        </p>
+        <p align="center">
+          <a href="https://github.com/kianavz2000/Todo-App" target="_blank">
+            <img src="https://img.shields.io/badge/View_Repo-333333?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌤️ Weather App</h3>
+        <p align="center">
+          <sub>React · TypeScript · Vite · Tailwind CSS</sub>
+        </p>
+        <p align="center">
+          A weather app with REST API integration, debouncing, 
+          AbortController, and keyboard navigation support.
+        </p>
+        <p align="center">
+          <a href="https://github.com/kianavz2000/Weather-App" target="_blank">
+            <img src="https://img.shields.io/badge/View_Repo-333333?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📊 Crypto Dashboard</h3>
+        <p align="center">
+          <sub>React · TypeScript · Vite · Tailwind CSS</sub>
+        </p>
+        <p align="center">
+          A crypto trading dashboard with real-time prices, 
+          portfolio management, and Open Graph meta tags.
+        </p>
+        <p align="center">
+          <a href="https://github.com/kianavz2000/Crypto-Trading-Dashboard" target="_blank">
+            <img src="https://img.shields.io/badge/View_Repo-333333?style=for-the-badge&logo=github" />
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">✨ More Coming Soon</h3>
+        <p align="center">
+          <sub>Stay tuned for new projects!</sub>
+        </p>
+        <p align="center">
+          <i>Always learning, always building.</i>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr>
+
+## 📜 Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="#">
+          <img src="https://img.shields.io/badge/IBM-UI/UX_Designer-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+        </a>
+      </td>
+      <td>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Quera-Front_End_Development-6C63FF?style=for-the-badge&logo=quera&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Quera-React_Development-6C63FF?style=for-the-badge&logo=quera&logoColor=white" />
+        </a>
+      </td>
+      <td>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Coursera-UI/UX_Design-000000?style=for-the-badge&logo=coursera&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kianavz2000&theme=transparent&count_private=true&show_icons=true&rank_icon=github&title_color=7B2FBE&icon_color=00E5FF&text_color=B5C9A8" alt="GitHub stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kianavz2000&theme=transparent&border_radius=10&title_color=7B2FBE&icon_color=00E5FF&text_color=B5C9A8" alt="streak stats" />
+  <br>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=kianavz2000&theme=transparent&layout=donut&langs_count=8&title_color=7B2FBE&icon_color=00E5FF&text_color=B5C9A8" alt="top languages" />
+</div>
+
+<hr>
+
+
+<div align="center">
+  <sub>
+    😸 Built with 💜 and a lot of coffee ☕
+    <br>
+    <sup>Thanks for visiting! ✨</sup>
+  </sub>
+</div>
+
+
+
+
+
