@@ -1,4 +1,3 @@
-<img src="C:\Users\dell\Pictures\banner.png" alt="banner" width="100%">
 
 <h1 align="center">
   <span style="font-size: 48px; font-weight: 600; color: #7B2FBE;">
