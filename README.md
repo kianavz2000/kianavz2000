@@ -1,5 +1,3 @@
-## Hi There
-
 <img src="C:\Users\dell\Pictures\banner.png" alt="banner" width="100%">
 
 <div align="center"> 
@@ -13,8 +11,8 @@
 <div align="center">
   <p>
     I'm a front-end developer passionate about creating user-friendly interfaces 
-    and writing clean. I love turning ideas into engaging 
-    visual experiences and solving problems through design.
+    and writing clean.🌸 I love turning ideas into engaging 
+    visual experiences and solving problems through design🍓
   </p>
 </div>
 <br>
