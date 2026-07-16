@@ -124,7 +124,7 @@ I write clean code, enjoy solving problems, and love turning ideas into real pro
 
 <hr>
 
-
+<div align="center">
 ## 📜 Courses & Certifications
 
 | Course | Institution |
@@ -133,7 +133,7 @@ I write clean code, enjoy solving problems, and love turning ideas into real pro
 | Professional Project-Oriented Course in Front-End Development with React | <img src="https://img.shields.io/badge/Quera-6C63FF?style=flat&logo=quera&logoColor=white" /> |
 | Task-Oriented Course in HTML, Tailwind CSS, Bootstrap | <img src="https://img.shields.io/badge/Quera-6C63FF?style=flat&logo=quera&logoColor=white" /> |
 | Project-Oriented Course in Front-End Web Development | <img src="https://img.shields.io/badge/Quera-6C63FF?style=flat&logo=quera&logoColor=white" /> |
-
+</div>
 <hr>
 
 <div align="center">
