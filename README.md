@@ -138,7 +138,7 @@ I write clean code, enjoy solving problems, and love turning ideas into real pro
 
 
 | Course | Institution |
-|--------|-------------|
+|--------|:---:|
 | UI/UX Designer Professional | <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white" /> |
 | Professional Project-Oriented Course in Front-End Development with React | <img src="https://img.shields.io/badge/Quera-6C63FF?style=flat&logo=quera&logoColor=white" /> |
 | Task-Oriented Course in HTML, Tailwind CSS, Bootstrap | <img src="https://img.shields.io/badge/Quera-6C63FF?style=flat&logo=quera&logoColor=white" /> |
