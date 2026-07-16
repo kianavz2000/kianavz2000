@@ -159,10 +159,7 @@ I write clean code, enjoy solving problems, and love turning ideas into real pro
 
 <div align="center">
   
-  <!-- آمار کلی -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=kianavz2000&show_icons=true&theme=transparent&count_private=true&rank_icon=github&title_color=7B2FBE&icon_color=00E5FF&text_color=B5C9A8" alt="GitHub stats" />
   
-  <!-- روند فعالیت (Streak) -->
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=kianavz2000&theme=transparent&border_radius=10&title_color=7B2FBE&icon_color=00E5FF&text_color=B5C9A8" alt="streak stats" />
   
   <br>
