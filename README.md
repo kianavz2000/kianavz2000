@@ -124,8 +124,8 @@ I write clean code, enjoy solving problems, and love turning ideas into real pro
 
 <hr>
 
-<div align="center">
 ## 📜 Courses & Certifications
+<div align="center">
 
 | Course | Institution |
 |--------|:---:|
