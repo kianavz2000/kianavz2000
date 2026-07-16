@@ -127,16 +127,6 @@ I write clean code, enjoy solving problems, and love turning ideas into real pro
 
 ## 📜 Courses & Certifications
 
-
-
-| Course | Institution |
-|--------|:---:|
-| UI/UX Designer Professional | **IBM** |
-| Professional Project-Oriented Course in Front-End Development with React | **Quera** |
-| Task-Oriented Course in HTML, Tailwind CSS, Bootstrap | **Quera** |
-| Project-Oriented Course in Front-End Web Development | **Quera** |
-
-
 | Course | Institution |
 |--------|:---:|
 | UI/UX Designer Professional | <img src="https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white" /> |
