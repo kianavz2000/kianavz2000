@@ -14,9 +14,8 @@
 
 <div align="center">
   <p>
-    🌸I'm a front-end developer passionate about creating user-friendly interfaces 
-    and writing clean🍓. I love turning ideas into engaging 
-    visual experiences and solving problems through design🌸
+    🌸I'm a front-end developer who cares about how things look and how they work. 
+I write clean code, enjoy solving problems, and love turning ideas into real products.🌸
   </p>
 </div>
 <br>
