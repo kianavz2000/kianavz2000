@@ -5,9 +5,11 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=80&color=7B2FBE&duration=4000&lines=Hi+there+🌱;+I'm+Kiana!;+Front-End+Developer+⭐" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=80&color=7B2FBE&duration=1&lines=Hi+there+🌱" />
 </h1>
-
+<h2 align="center">
+  I'm Kiana! Front-End Developer ⭐
+</h2>
 <div align="center">
   <p>
     🌸I'm a front-end developer passionate about creating user-friendly interfaces 
