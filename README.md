@@ -5,8 +5,11 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=80&color=7B2FBE&duration=1&lines=Hi+there+🌱" />
+  <span style="font-size: 48px; font-weight: 600; color: #7B2FBE;">
+    Hi there 🌱 I'm Kiana! Front-End Developer ⭐
+  </span>
 </h1>
+
 <h2 align="center">
   I'm Kiana! Front-End Developer ⭐
 </h2>
