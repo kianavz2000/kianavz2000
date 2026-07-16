@@ -23,7 +23,6 @@
 - 💬 **Ask me about:** React, TypeScript, Tailwind CSS, UI/UX Design
 - 🎓 **Education:** B.Sc. in Aerospace Engineering, Sharif University of Technology
 - ⚡ **Fun fact:** I transitioned from aerospace engineering to front-end development!
-- 📫 **Reach me:** [Email](mailto:avzkiana@gmail.com)
 <br>
 <div align="center">
   <a href="mailto:avzkiana@gmail.com">
