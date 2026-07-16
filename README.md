@@ -158,26 +158,15 @@
 
 <hr>
 
-<div align=center>
-  <!-- آمار ساده -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kianavz2000&show_icons=true&theme=default" alt="GitHub stats" />
-  
-  <!-- جایگزین Streak -->
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kianavz2000&show_icons=true&count_private=true&theme=default" alt="streak stats" />
-  
-  <!-- زبان‌ها -->
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=kianavz2000&layout=compact&theme=default" alt="top languages" />
-</div>
-
-<hr>
-
 
 <div align="center">
-  <sub>
+  <p style="font-size: 18px; color: #7B2FBE;">
     😸 Built with 💙 and a lot of coffee ☕
     <br>
-    <sup>✨Thanks for visiting✨</sup>
-  </sub>
+    <span style="font-size: 16px; color: #B5C9A8;">
+    ✨Thanks for visiting✨
+    </span>
+  </p>
 </div>
 
 
