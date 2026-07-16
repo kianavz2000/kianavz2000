@@ -159,10 +159,14 @@
 <hr>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kianavz2000&theme=transparent&count_private=true&show_icons=true&rank_icon=github&title_color=7B2FBE&icon_color=00E5FF&text_color=B5C9A8" alt="GitHub stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=kianavz2000&theme=transparent&border_radius=10&title_color=7B2FBE&icon_color=00E5FF&text_color=B5C9A8" alt="streak stats" />
-  <br>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=kianavz2000&theme=transparent&layout=donut&langs_count=8&title_color=7B2FBE&icon_color=00E5FF&text_color=B5C9A8" alt="top languages" />
+  <!-- آمار ساده -->
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kianavz2000&show_icons=true&theme=default" alt="GitHub stats" />
+  
+  <!-- جایگزین Streak -->
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=kianavz2000&show_icons=true&count_private=true&theme=default" alt="streak stats" />
+  
+  <!-- زبان‌ها -->
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=kianavz2000&layout=compact&theme=default" alt="top languages" />
 </div>
 
 <hr>
@@ -170,9 +174,9 @@
 
 <div align="center">
   <sub>
-    😸 Built with 💜 and a lot of coffee ☕
+    😸 Built with 💙 and a lot of coffee ☕
     <br>
-    <sup>Thanks for visiting! ✨</sup>
+    <sup>✨Thanks for visiting✨</sup>
   </sub>
 </div>
 
