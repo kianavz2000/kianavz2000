@@ -1,7 +1,7 @@
 <img src="C:\Users\dell\Pictures\banner.png" alt="banner" width="100%">
 
 <div align="center"> 
-  <img src="https://profile-counter.glitch.me/kianavz2000/count.svg" alt="visitor count" />
+  <img src="https://komarev.com/ghpvc/?username=kianavz2000&color=7B2FBE" alt="visitor count" />
 </div>
 
 <h1 align="center">
