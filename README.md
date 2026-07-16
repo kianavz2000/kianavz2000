@@ -110,7 +110,7 @@ I write clean code, enjoy solving problems, and love turning ideas into real pro
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">✨ More Coming Soon</h3>
+        <h3 align="center">🚀 More Coming Soon 🚀</h3>
         <p align="center">
           <sub>Stay tuned for new projects!</sub>
         </p>
