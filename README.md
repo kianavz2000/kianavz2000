@@ -1,15 +1,16 @@
 <img src="C:\Users\dell\Pictures\banner.png" alt="banner" width="100%">
 
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=kianavz2000&color=7B2FBE" alt="visitor count" />
-</div>
-
 <h1 align="center">
   <span style="font-size: 48px; font-weight: 600; color: #7B2FBE;">
     Hi there🌱I'm Kiana🐥<br>
     ⭐Front-End Developer⭐
   </span>
 </h1>
+
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=kianavz2000&color=7B2FBE" alt="visitor count" />
+</div>
+
 
 <div align="center">
   <p>
