@@ -124,31 +124,13 @@ I write clean code, enjoy solving problems, and love turning ideas into real pro
 
 <hr>
 
-## 📜 Certifications
-
 
 ## 📜 Courses & Certifications
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/IBM-UI/UX_Designer-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Quera-Front_End_Development-6C63FF?style=for-the-badge&logo=quera&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Quera-React_Development-6C63FF?style=for-the-badge&logo=quera&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Quera-HTML_Tailwind_Bootstrap-6C63FF?style=for-the-badge&logo=quera&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+- **IBM** — UI/UX Designer Professional  
+- **Quera** — Professional Project-Oriented Course in Front-End Development with React  
+- **Quera** — Task-Oriented Course in HTML, Tailwind CSS, Bootstrap  
+- **Quera** — Project-Oriented Course in Front-End Web Development
 
 <hr>
 
