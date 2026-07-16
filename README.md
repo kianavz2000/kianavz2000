@@ -10,9 +10,9 @@
 
 <div align="center">
   <p>
-    I'm a front-end developer passionate about creating user-friendly interfaces 
-    and writing clean.🌸 I love turning ideas into engaging 
-    visual experiences and solving problems through design🍓
+    🌸I'm a front-end developer passionate about creating user-friendly interfaces 
+    and writing clean🍓. I love turning ideas into engaging 
+    visual experiences and solving problems through design🌸
   </p>
 </div>
 <br>
