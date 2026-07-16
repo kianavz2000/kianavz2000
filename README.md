@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <span style="font-size: 48px; font-weight: 600; color: #7B2FBE;">
-    Hi there🌀I'm Kiana🐥<br>
+    Hi there🌌I'm Kiana🐥<br>
     ⭐Front-End Developer⭐
   </span>
 </h1>
