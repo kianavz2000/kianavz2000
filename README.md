@@ -14,8 +14,8 @@
 
 <div align="center">
   <p>
-    🌸I'm a front-end developer who cares about how things look and how they work. <br>
-I write clean code, enjoy solving problems, and love turning ideas into real products.🌸
+    🎀🌸I'm a front-end developer who cares about how things look and how they work. <br>
+I write clean code, enjoy solving problems, and love turning ideas into real products.🌸🎀
   </p>
 </div>
 <br>
